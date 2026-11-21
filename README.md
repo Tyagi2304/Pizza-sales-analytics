@@ -76,7 +76,7 @@ Core SQL patterns documented in `PIZZA SALES SQL QUERIES.pdf` against `pizza_sal
   * **Top 5:** *The Classic Deluxe Pizza* (`2,453`), *The Barbecue Chicken Pizza* (`2,432`), *The Hawaiian Pizza* (`2,422`), *The Pepperoni Pizza* (`2,418`), and *The Thai Chicken Pizza* (`2,371`).
   * **Bottom 5:** *The Brie Carre Pizza* (`490`), *The Mediterranean Pizza* (`934`), *The Calabrese Pizza* (`937`), *The Spinach Supreme Pizza* (`950`), and *The Soppressata Pizza* (`961`).
  
-  1. Dashboard Screenshot
+  Dashboard Screenshot
      <img width="1252" height="711" alt="Screenshot 2026-11-22 012133" src="https://github.com/user-attachments/assets/351ffec9-1837-43b6-acf3-4e4cde3a6be3" />
 
 
@@ -95,8 +95,9 @@ Core SQL patterns documented in `PIZZA SALES SQL QUERIES.pdf` against `pizza_sal
 ```text
 pizza-sales-analytics/
 ├── README.md
-├── data/
+├── Data/
 │   ├── pizza_sales.csv
-│   └── pizza_sales excel file.xlsx
-└── sql/
+├── Report/
+│   ├── pizza_sales excel file.xlsx
+└── SQL/
     └── PIZZA SALES SQL QUERIES.pdf
